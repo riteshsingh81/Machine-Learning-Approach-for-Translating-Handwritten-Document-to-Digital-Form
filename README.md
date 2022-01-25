@@ -1,0 +1,2 @@
+# Machine-Learning-Approach-for-Translating-Handwritten-Document-to-Digital-Form
+Handwritten character recognition is a field of research in artificial intelligence, computer vision, and pattern recognition. A computer performing handwriting recognition is said to be able to acquire and detect characters in paper documents, pictures, touch-screen devices and convert them into machine-encoded form. We will look into the SVMs and kNN techniques to solve the problem.
